@@ -1,9 +1,10 @@
+
 # AI-Based Early Detection of Hygiene Risk Patterns in Senior Care 
-## Problem
+## Summary
 
 In senior care facilities, hygiene-related risks (such as infection outbreaks or recurring hygiene deviations) are often detected too late. Although documentation data exists, staff usually lack the time and analytical tools to systematically detect patterns.
 
-## Proposed AI Solution
+## Problem
 
 This project proposes a machine learning system that analyzes structured facility data to identify early warning signs of hygiene risks.
 
